@@ -1,10 +1,10 @@
 {
   "version": "1",
   "cognitoConfig": {
-    "identityPoolName": "rainbowtablesex53e17106_identitypool_53e17106",
+    "identityPoolName": "rainbowtablesex36d5d146_identitypool_36d5d146",
     "allowUnauthenticatedIdentities": false,
-    "resourceNameTruncated": "rainbo53e17106",
-    "userPoolName": "rainbowtablesex53e17106_userpool_53e17106",
+    "resourceNameTruncated": "rainbo36d5d146",
+    "userPoolName": "rainbowtablesex36d5d146_userpool_36d5d146",
     "autoVerifiedAttributes": [
       "email"
     ],
@@ -19,9 +19,7 @@
     "defaultPasswordPolicy": false,
     "passwordPolicyMinLength": 8,
     "passwordPolicyCharacters": [],
-    "requiredAttributes": [
-      "email"
-    ],
+    "requiredAttributes": [],
     "aliasAttributes": [],
     "userpoolClientGenerateSecret": false,
     "userpoolClientRefreshTokenValidity": 30,
@@ -31,12 +29,13 @@
     "userpoolClientReadAttributes": [
       "email"
     ],
-    "userpoolClientLambdaRole": "rainbo53e17106_userpoolclient_lambda_role",
+    "userpoolClientLambdaRole": "rainbo36d5d146_userpoolclient_lambda_role",
     "userpoolClientSetAttributes": false,
-    "sharedId": "53e17106",
-    "resourceName": "rainbowtablesex53e17106",
+    "sharedId": "36d5d146",
+    "resourceName": "rainbowtablesex36d5d146",
     "authSelections": "identityPoolAndUserPool",
     "useDefault": "default",
+    "triggers": {},
     "userPoolGroupList": [],
     "serviceName": "Cognito",
     "usernameCaseSensitive": false,
