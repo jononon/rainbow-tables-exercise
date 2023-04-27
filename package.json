@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "@aws-amplify/ui-react": "^4.6.0",
+    "@faker-js/faker": "^7.6.0",
     "@ionic/react": "^7.0.0",
     "@ionic/react-router": "^7.0.0",
     "@testing-library/jest-dom": "^5.11.9",
@@ -19,6 +20,7 @@
     "history": "^4.9.0",
     "ionicons": "^7.0.0",
     "react": "^18.2.0",
+    "react-confetti": "^6.1.0",
     "react-dom": "^18.2.0",
     "react-router": "^5.2.0",
     "react-router-dom": "^5.2.0",
